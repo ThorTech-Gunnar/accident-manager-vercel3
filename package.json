@@ -1,0 +1,17 @@
+{
+  "name": "incident-management-saas",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "setup": "bash setup.sh"
+  },
+  "dependencies": {
+    // ... other dependencies
+  },
+  "devDependencies": {
+    // ... other dev dependencies
+    "mongodb-memory-server": "^8.12.2"
+  }
+}
